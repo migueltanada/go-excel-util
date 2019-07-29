@@ -1,6 +1,6 @@
 # go-excel-util
 
-A very light go binary that will replaces the content of a cell in an excel file
+A very light go binary that replaces the content of a cell in an excel file
 
 Syntax ``go-excel-util <file-name> <sheet#> <row#> <col#> <replacement string>``
 
